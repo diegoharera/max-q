@@ -1,0 +1,41 @@
+.title1 {
+    background-color: green;
+    text-align: center;
+    font-size: 29px;
+}
+
+.title2 {
+    background-color: red;
+    text-align: center;
+    font-size: 29px;
+    width: 200px;
+    text-align: center;
+}
+
+#bidondo {
+    width: 200px;
+}
+
+#first-image {
+    height: 300px;
+    width: 300PX;
+}
+
+p {
+    background-color: aqua;
+    width: 400px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+video {
+    height: 400px;
+    width: 400px;
+    margin-bottom: 200px;
+}
